@@ -1,0 +1,5 @@
+db=jdbc:mysql://localhost:3306/dapos
+
+user=root
+
+password=root
